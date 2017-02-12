@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Volleyball Score</string>
+    <string name="volley">Volleyball</string>
+    <string name="teamA">Team A</string>
+    <string name="teamb">Team B</string>
+    <string name="tset">-</string>
+    <string name="vpoint">+1 Point</string>
+    <string name="reset">New Game!</string>
+</resources>
